@@ -189,7 +189,6 @@ All five test methods passed in the preparation environment. Dense sampling is u
 | `requirements.txt` | Python dependencies |
 | `test_solver.py` | Automated checks |
 | `Results/` | Five example result images |
-| `HUONG_DAN_VI.md` | Vietnamese explanation and usage notes |
 | `README.md` | Project overview, method and results |
 
 ## Numerical limitations
