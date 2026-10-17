@@ -2,10 +2,6 @@
 
 Python implementation of the point–ellipse distance problem for **3D Sensing and Sensor Fusion**.
 
-**Student:** Do Ba Quang Huy  
-**Programme:** IFRoS  
-**Neptun code:** OVK57S
-
 Given a 2D query point, the program finds the closest and farthest points on an ellipse boundary. It uses Lagrange multipliers to reduce the problem to a quartic polynomial, following the [course handout](https://cv.inf.elte.hu/wp-content/uploads/2024/12/PontEllipseDist.pdf).
 
 ## Features
